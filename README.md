@@ -1,2 +1,2 @@
 # hugo-demo
-Demo for Hugo - static site generator
+Demo for [Hugo](https://gohugo.io) - static site generator
